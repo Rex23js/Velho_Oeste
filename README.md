@@ -1,14 +1,4 @@
 <div align="center">
-
-```
-██████╗ ███████╗██╗  ██╗
-██╔══██╗██╔════╝╚██╗██╔╝
-██████╔╝█████╗   ╚███╔╝ 
-██╔══██╗██╔══╝   ██╔██╗ 
-██║  ██║███████╗██╔╝ ██╗
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
-
 ### `> Ismael Bayard` — aka **Rex23js**
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Estudante+de+Desenvolvimento+Web;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP;MySQL+%7C+MongoDB;Construindo+o+futuro%2C+linha+por+linha...)
