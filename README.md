@@ -74,18 +74,6 @@ $ git log --oneline --all
 
 ---
 
-```bash
-$ curl stats.github.com/Rex23js
-```
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rex23js&show_icons=true&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=cccccc)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rex23js&layout=compact&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=cccccc)
-
-</div>
-
 ---
 
 ```bash
@@ -105,5 +93,5 @@ $ ping Rex23js
 ---
 
 <div align="center">
-<sub>🟢 Online · Rex23js · 2025</sub>
+<sub>🟢 Online · Rex23js · 2026</sub>
 </div>
